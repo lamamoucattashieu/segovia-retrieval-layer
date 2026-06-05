@@ -1,0 +1,23 @@
+[
+  {
+    "id": "chunk_1",
+    "text": "Los internos pueden recibir visitas los fines de semana.",
+    "language": "es",
+    "page": 3,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_2",
+    "text": "Las apelaciones deben presentarse dentro de cinco días.",
+    "language": "es",
+    "page": 7,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_3",
+    "text": "Las solicitudes médicas se revisan diariamente.",
+    "language": "es",
+    "page": 11,
+    "source": "demo.pdf"
+  }
+]
