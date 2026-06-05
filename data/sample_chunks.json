@@ -1,23 +1,340 @@
 [
+  
+
   {
     "id": "chunk_1",
-    "text": "Los internos pueden recibir visitas los fines de semana.",
+    "text": "Las visitas familiares deben solicitarse con antelación y están sujetas a la aprobación del centro.",
+    "language": "es",
+    "page": 1,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_2",
+    "text": "El horario de visitas puede variar según el módulo y la situación de seguridad.",
+    "language": "es",
+    "page": 2,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_3",
+    "text": "Los visitantes deben presentar un documento de identidad válido al entrar en el centro.",
     "language": "es",
     "page": 3,
     "source": "demo.pdf"
   },
   {
-    "id": "chunk_2",
-    "text": "Las apelaciones deben presentarse dentro de cinco días.",
+    "id": "chunk_4",
+    "text": "Las visitas legales con abogados pueden realizarse de forma privada cuando la normativa lo permita.",
+    "language": "es",
+    "page": 4,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_5",
+    "text": "Las llamadas telefónicas pueden estar limitadas por tiempo y por número de contactos autorizados.",
+    "language": "es",
+    "page": 5,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_6",
+    "text": "El correo recibido puede ser revisado por el personal de seguridad antes de entregarse.",
+    "language": "es",
+    "page": 6,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_7",
+    "text": "Los paquetes enviados al centro solo se aceptan si cumplen con la lista de objetos permitidos.",
     "language": "es",
     "page": 7,
     "source": "demo.pdf"
   },
   {
-    "id": "chunk_3",
-    "text": "Las solicitudes médicas se revisan diariamente.",
+    "id": "chunk_8",
+    "text": "Las solicitudes médicas deben presentarse por los canales oficiales del centro penitenciario.",
+    "language": "es",
+    "page": 8,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_9",
+    "text": "Los medicamentos recetados por personal autorizado se entregan según el horario establecido.",
+    "language": "es",
+    "page": 9,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_10",
+    "text": "Las urgencias médicas deben notificarse inmediatamente al personal de guardia.",
+    "language": "es",
+    "page": 10,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_11",
+    "text": "Las quejas sobre condiciones, trato o servicios deben registrarse mediante el formulario oficial.",
     "language": "es",
     "page": 11,
     "source": "demo.pdf"
-  }
+  },
+  {
+    "id": "chunk_12",
+    "text": "Las apelaciones contra una sanción disciplinaria deben presentarse dentro de cinco días.",
+    "language": "es",
+    "page": 12,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_13",
+    "text": "Las sanciones disciplinarias pueden incluir restricciones temporales de privilegios.",
+    "language": "es",
+    "page": 13,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_14",
+    "text": "Los internos pueden participar en programas de trabajo si cumplen los criterios establecidos.",
+    "language": "es",
+    "page": 14,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_15",
+    "text": "Los programas educativos incluyen alfabetización, formación profesional y aprendizaje de idiomas.",
+    "language": "es",
+    "page": 15,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_16",
+    "text": "Los servicios religiosos se organizan de acuerdo con la disponibilidad del centro y las normas internas.",
+    "language": "es",
+    "page": 16,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_17",
+    "text": "La biblioteca ofrece libros, material de consulta y recursos educativos durante horarios específicos.",
+    "language": "es",
+    "page": 17,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_18",
+    "text": "La cantina permite comprar productos de higiene, alimentos autorizados y artículos básicos.",
+    "language": "es",
+    "page": 18,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_19",
+    "text": "Los objetos personales permitidos deben seguir la lista aprobada por la administración penitenciaria.",
+    "language": "es",
+    "page": 19,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_20",
+    "text": "Las solicitudes de traslado pueden presentarse por motivos de seguridad, tratamiento o gestión.",
+    "language": "es",
+    "page": 20,
+    "source": "demo.pdf"
+  },
+  {
+    "id": "chunk_21",
+    "text": "Los internos pueden solicitar visitas extraordinarias en circunstancias excepcionales autorizadas por la dirección.",
+    "language": "es",
+    "page": 23,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_22",
+    "text": "Las visitas pueden ser suspendidas temporalmente por motivos de seguridad o disciplina.",
+    "language": "es",
+    "page": 24,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_23",
+    "text": "Las llamadas telefónicas pueden ser supervisadas conforme a la normativa penitenciaria.",
+    "language": "es",
+    "page": 25,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_24",
+    "text": "Los internos tienen derecho a comunicarse con sus representantes legales de manera confidencial.",
+    "language": "es",
+    "page": 26,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_25",
+    "text": "La correspondencia legal no podrá ser abierta salvo en los casos previstos por la ley.",
+    "language": "es",
+    "page": 27,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_26",
+    "text": "Los internos pueden solicitar una segunda valoración médica cuando existan motivos justificados.",
+    "language": "es",
+    "page": 28,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_27",
+    "text": "La administración garantizará el acceso a medicamentos prescritos por profesionales autorizados.",
+    "language": "es",
+    "page": 29,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_28",
+    "text": "Las emergencias médicas deben ser atendidas inmediatamente por el personal correspondiente.",
+    "language": "es",
+    "page": 30,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_29",
+    "text": "Las quejas serán revisadas por la autoridad competente y recibirán una respuesta formal.",
+    "language": "es",
+    "page": 31,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_30",
+    "text": "Los internos pueden presentar reclamaciones relacionadas con alimentación, higiene o trato recibido.",
+    "language": "es",
+    "page": 32,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_31",
+    "text": "Las apelaciones deben incluir los motivos de desacuerdo con la sanción impuesta.",
+    "language": "es",
+    "page": 33,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_32",
+    "text": "Las sanciones pueden ser revisadas por una autoridad superior mediante procedimiento de apelación.",
+    "language": "es",
+    "page": 34,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_33",
+    "text": "Los programas educativos incluyen alfabetización, idiomas y formación profesional.",
+    "language": "es",
+    "page": 35,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_34",
+    "text": "La participación en programas educativos puede contribuir a la reinserción social.",
+    "language": "es",
+    "page": 36,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_35",
+    "text": "Los puestos de trabajo disponibles se asignan según disponibilidad y criterios establecidos.",
+    "language": "es",
+    "page": 37,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_36",
+    "text": "Los internos pueden recibir remuneración por determinadas actividades laborales.",
+    "language": "es",
+    "page": 38,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_37",
+    "text": "Las actividades religiosas estarán disponibles para personas de diferentes confesiones.",
+    "language": "es",
+    "page": 39,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_38",
+    "text": "Los líderes religiosos autorizados pueden visitar el centro para prestar asistencia espiritual.",
+    "language": "es",
+    "page": 40,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_39",
+    "text": "La biblioteca dispone de material educativo, novelas y recursos de consulta.",
+    "language": "es",
+    "page": 41,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_40",
+    "text": "Los préstamos de libros tienen una duración limitada y deben devolverse en plazo.",
+    "language": "es",
+    "page": 42,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_41",
+    "text": "Los traslados pueden realizarse para facilitar programas de tratamiento específicos.",
+    "language": "es",
+    "page": 43,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_42",
+    "text": "Las decisiones de traslado tendrán en cuenta factores de seguridad y gestión penitenciaria.",
+    "language": "es",
+    "page": 44,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_43",
+    "text": "Los internos recibirán información sobre los procedimientos previos a su liberación.",
+    "language": "es",
+    "page": 45,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_44",
+    "text": "La preparación para la reintegración social puede incluir orientación laboral y educativa.",
+    "language": "es",
+    "page": 46,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_45",
+    "text": "La cantina ofrece productos de higiene personal, alimentos autorizados y material básico.",
+    "language": "es",
+    "page": 47,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_46",
+    "text": "Las compras en la cantina están sujetas a límites establecidos por la administración.",
+    "language": "es",
+    "page": 48,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_47",
+    "text": "Los objetos personales prohibidos serán retirados por razones de seguridad.",
+    "language": "es",
+    "page": 49,
+    "source": "demo.pdf"
+    },
+    {
+    "id": "chunk_48",
+    "text": "La lista de objetos autorizados puede actualizarse periódicamente.",
+    "language": "es",
+    "page": 50,
+    "source": "demo.pdf"
+    }
 ]

@@ -37,7 +37,7 @@ def seed_demo_data() -> None:
         return
 
     chunks = json.loads(DATA_PATH.read_text(encoding="utf-8"))
-
+    print("NUMBER OF CHUNKS LOADED:", len(chunks))
     ids = [item["id"] for item in chunks]
     docs = [f"passage: {item['text']}" for item in chunks]
     metas = [
