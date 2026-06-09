@@ -1,6 +1,11 @@
+text
 .venv/
 __pycache__/
 *.pyc
-chroma_store/
-hf_cache/
+.DS_Store
 .env
+hf_cache/
+storage/chroma/
+chroma_store/
+chroma_store_old/
+hf_cache/
